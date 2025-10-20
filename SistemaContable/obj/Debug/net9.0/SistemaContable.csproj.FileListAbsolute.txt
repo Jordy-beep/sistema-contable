@@ -1,0 +1,15 @@
+C:\Users\DELL 7400\Desktop\SistemaContable1M4\sistema-contable\SistemaContable\bin\Debug\net9.0\SistemaContable.exe
+C:\Users\DELL 7400\Desktop\SistemaContable1M4\sistema-contable\SistemaContable\bin\Debug\net9.0\SistemaContable.deps.json
+C:\Users\DELL 7400\Desktop\SistemaContable1M4\sistema-contable\SistemaContable\bin\Debug\net9.0\SistemaContable.runtimeconfig.json
+C:\Users\DELL 7400\Desktop\SistemaContable1M4\sistema-contable\SistemaContable\bin\Debug\net9.0\SistemaContable.dll
+C:\Users\DELL 7400\Desktop\SistemaContable1M4\sistema-contable\SistemaContable\bin\Debug\net9.0\SistemaContable.pdb
+C:\Users\DELL 7400\Desktop\SistemaContable1M4\sistema-contable\SistemaContable\obj\Debug\net9.0\SistemaContable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 7400\Desktop\SistemaContable1M4\sistema-contable\SistemaContable\obj\Debug\net9.0\SistemaContable.AssemblyInfoInputs.cache
+C:\Users\DELL 7400\Desktop\SistemaContable1M4\sistema-contable\SistemaContable\obj\Debug\net9.0\SistemaContable.AssemblyInfo.cs
+C:\Users\DELL 7400\Desktop\SistemaContable1M4\sistema-contable\SistemaContable\obj\Debug\net9.0\SistemaContable.csproj.CoreCompileInputs.cache
+C:\Users\DELL 7400\Desktop\SistemaContable1M4\sistema-contable\SistemaContable\obj\Debug\net9.0\SistemaContable.sourcelink.json
+C:\Users\DELL 7400\Desktop\SistemaContable1M4\sistema-contable\SistemaContable\obj\Debug\net9.0\SistemaContable.dll
+C:\Users\DELL 7400\Desktop\SistemaContable1M4\sistema-contable\SistemaContable\obj\Debug\net9.0\refint\SistemaContable.dll
+C:\Users\DELL 7400\Desktop\SistemaContable1M4\sistema-contable\SistemaContable\obj\Debug\net9.0\SistemaContable.pdb
+C:\Users\DELL 7400\Desktop\SistemaContable1M4\sistema-contable\SistemaContable\obj\Debug\net9.0\SistemaContable.genruntimeconfig.cache
+C:\Users\DELL 7400\Desktop\SistemaContable1M4\sistema-contable\SistemaContable\obj\Debug\net9.0\ref\SistemaContable.dll
